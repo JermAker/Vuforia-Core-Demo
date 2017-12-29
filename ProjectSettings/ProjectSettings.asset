@@ -647,11 +647,16 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    Build: 1
+    Collab: 0
+    ErrorHub: 0
+    Hub: 0
+    UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: b65e7120-43ea-4da5-b1b3-a05e4be6a656
-  projectName: Vuforia Core Demo (1)
+  cloudProjectId: 799de4d8-8b3f-4f5b-a1bd-3d2ca02788ac
+  projectName: Vuforia Core Demo
   organizationId: cengagejermaker
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
